@@ -8,4 +8,7 @@ Utilities, tools, scripts for printing and print shop workflow.
 
 9100
 ----
-This utility listens on a socket, creates a new file for each incoming connection and dumps the incoming datastream to the file.
+This utility creates new files for each incoming connection to
+port 9100. Like a JetDirect card, but on your computer instead of a printer.
+This tool is great for understanding what your application or script is
+sending to the printer.
