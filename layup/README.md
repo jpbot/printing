@@ -13,4 +13,9 @@ laying out 1-4 on the first page and 5-8 on the second etc.
 
 See the test documents for how it works. -4U.pdf files are the output.
 
-To run: java -cp itext-2.0.4.jar:<path to classfile> FourLatteral <input.pdf>
+    java -cp itext-2.0.4.jar:<path to classfile> FourLatteral <input.pdf>
+
+itext-2.0.4
+-----------
+itext is used by these utilities, rather than include it in the repo multiple times
+I'm leaving it here.
