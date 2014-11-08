@@ -1,0 +1,1 @@
+@java -classpath m:/pdf_pagecount;m:/pdf_pagecount/itext-2.0.4.jar PageCount %1
