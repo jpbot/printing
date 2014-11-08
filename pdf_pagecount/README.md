@@ -1,3 +1,5 @@
+PageCount
+=========
 Count the pages in a pdf file. Can count the pages in multiple pdf files
 provided on the command line. Works nicely when your shell expands
 wildcards (globbing).
