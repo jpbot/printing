@@ -50,7 +50,7 @@ perform saddle stitch finishing. Xerox 4110 EPS systems for example. In the
 past the driver function wasn't very good and this produced much better
 results, even allowing VIPP to be used if you're so licensed.
 
-   java -cp itext-2.0.4.jar:.<path to classfile> saddlestitch <input.pdf>
+    java -cp itext-2.0.4.jar:.<path to classfile> saddlestitch <input.pdf>
 
 itext-2.0.4
 -----------
