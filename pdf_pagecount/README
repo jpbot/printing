@@ -7,4 +7,5 @@ Here's an example runing on bash:
    test7.pdf 7
    test9.pdf 9
 
-
+Uses itext, check the printing/layup directory for itext. Example used test
+files from layup as well.
